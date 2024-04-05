@@ -23,7 +23,8 @@ void input()
     cout << "\n--------------------\n";
     for (i = 0; i < n; i++)
     {
-
+        cout << "<" << (i + 1) << ">";
+        
     }
 }
 int main()
