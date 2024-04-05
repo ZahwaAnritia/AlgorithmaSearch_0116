@@ -43,6 +43,11 @@ void LinearSearch()
         ctr = 0;
         i = 0; //step2
 
+        while (i < n) //step3
+        {
+            ctr++;
+            if (arr[i] == item);
+        }
 
     } while ((ch == 'y') || (ch == 'Y'));
 }
